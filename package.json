@@ -1,0 +1,14 @@
+{
+  "name": "Goziex Tech Test App",
+  "version": "1.0.0",
+  "description": "Goziex Technologies Limited",
+  "main": "goziextech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "Goziex Technologies Limited",
+  "license": "ISC"
+}
