@@ -4,7 +4,7 @@
     
     //API Home
     goziextech.get('/',function(req, res){
-    res.send('Welcome to Goziex Technologies Test API'); 
+    res.send('Welcome to Goziex Technologies Test API, Test'); 
     });
     
     goziextech.listen(3000);
